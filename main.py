@@ -27,3 +27,4 @@ def main_loop(guesses):
 print("I'm thinking of a number between 0 and 100")
 main_loop(guesses)
 print("Thanks For Playing!")
+print("By Bisrut and Prakash")
